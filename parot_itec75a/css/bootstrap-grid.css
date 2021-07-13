@@ -329,6 +329,10 @@ html {
 }
 
 @media (min-width: 576px) {
+	
+  .col-sm-548 { flex:1.30;
+	background-color: yellow}
+  
   .col-sm {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
