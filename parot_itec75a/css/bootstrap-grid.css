@@ -331,7 +331,7 @@ html {
 @media (min-width: 576px) {
 	
   .col-sm-548 { flex:1.30;
-	background-color: yellow}
+	background-color: orange}
   
   .col-sm {
     -ms-flex-preferred-size: 0;
